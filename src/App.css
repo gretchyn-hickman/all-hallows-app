@@ -1,9 +1,10 @@
 body {
     text-align: center;
     margin-top: 100px 0;
+    background-color: var(--primary-color);
   }
   :root {
-    --primary-color: rgb(55, 52, 255);
+    --primary-color: rgb(102, 100, 252);
     --secondary-color: rgb(255, 140, 39);
     --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
   }
